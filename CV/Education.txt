@@ -1,0 +1,13 @@
+  <ul>
+<li>13 JUN, 2014 AD</br>
+    SLC, AISHWARYA VIDYA NIKETAN</br>
+    69%
+</li>    
+<li>30 AUGUST, 2016 AD</br>
+    HSEB, NATIONAL ACADEMY OF SCIENCE AND TECHNOLOGY</br>
+    69.8%</br>
+</li>
+<li>RUNNING</br>
+    BACHELOR, ACADEMIA INTERNATIONAL COLLEGE (TU)</br>
+    Currently Studying.</br>
+</li></ul>

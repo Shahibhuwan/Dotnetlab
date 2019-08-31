@@ -1,0 +1,6 @@
+<ul>
+<li>Programming Proficiency:  C, C++, Java, Python, PHP, MySQL, HTML, CSS, JavaScript, VB script, Prolog.</li>
+<li>Operating System familiar with: Microsoft Window(xp, vista, windows 7/8/10)</li>
+<li>Interface Design: Photoshop</li>
+<li>Collaborating/Repository Tools: GitHub</li>
+</ul>

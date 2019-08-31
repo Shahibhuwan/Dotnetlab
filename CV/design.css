@@ -1,0 +1,42 @@
+body{
+	line-height: 25px;
+}
+.container
+{
+	width: 900px;
+	margin-top: 0px;
+	background-color: #F0F8FF;
+}
+
+ 	 
+
+#image
+{
+	float:right;
+	width: 200px;
+	hieght: 400px;
+
+}
+
+.personal_info
+{
+	display: flex;
+}
+
+
+*{
+	font-family: serif;
+	margin:0px auto 10px auto;
+	font-size: 18px;
+}
+ a 
+ {
+ 	color: #00f;
+    text-decoration: none; 
+ }
+
+ a:hover 
+ { 
+ 	border-bottom-style: solid;
+    color: black; 
+ }
